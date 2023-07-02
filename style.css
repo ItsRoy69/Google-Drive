@@ -456,10 +456,22 @@ overflow: hidden;
     left: 50%;
     transform: translate(-50%,-50%);
     color: #fff;
-    font-size: 140px;
+    font-size: 60px;
     font-weight: 500;
     font-family: m;
 }
+
+#fifth p{
+    position: absolute;
+    top: -350%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: m;
+}
+
 #sixth{
     position: relative;
     overflow: hidden;
